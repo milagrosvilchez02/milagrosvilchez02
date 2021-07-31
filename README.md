@@ -6,7 +6,6 @@ My name is Milagros, my friends call me Milu. I like videogames, movies and musi
 - 💬 I'm interested in workout and reading
 - 📫 How to reach me: milagrosvilchez02@gmail.com
 - 😄 Pronouns: she / her
-- 
 
 ## Skills
 - HTML
