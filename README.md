@@ -13,5 +13,8 @@ My name is Milagros, my friends call me Milu. I like videogames, movies and musi
 - CSS
 - Git
 - C#
+- React
+- SQL
+- CRM
 
 # Thanks for reading! :D
