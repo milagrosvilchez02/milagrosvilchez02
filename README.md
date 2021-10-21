@@ -10,11 +10,12 @@ My name is Milagros, my friends call me Milu. I like videogames, movies and musi
 ## Skills
 - HTML
 - JavaScript
+- React
 - CSS
 - Git
 - C#
-- React
 - SQL
 - CRM
+- Web scraping
 
 # Thanks for reading! :D
